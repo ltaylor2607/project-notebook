@@ -10,9 +10,9 @@
         "/favicon.ico",
         "/index.html",
         "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.4ef4b1d5c9de540828e6.bundle.js",
-        "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
-        "/styles.84af2074b790c9e3a3f6.bundle.css"
+        "/main.a7a86f76afe6f08d6c49.bundle.js",
+        "/polyfills.3f82798312e429623839.bundle.js",
+        "/styles.cf76b05489ad3b45867e.bundle.css"
       ],
       "patterns": []
     },
@@ -33,13 +33,13 @@
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/assets/icon-128x128.png": "5b82a269fd5b8cf41c1c041e7f60f91049da5a97",
-    "/main.4ef4b1d5c9de540828e6.bundle.js": "11d5037939dff332fe32aef0914d68b10188a01b",
+    "/main.a7a86f76afe6f08d6c49.bundle.js": "006462acb690af34404b49c87e3a34daf5f03cd5",
     "/assets/icon-152x152.png": "22babe1ccfb9214f7ca259e1eedf60e6b673fbea",
-    "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "/polyfills.3f82798312e429623839.bundle.js": "3c8cd1d7092ca07a5de58dd89685baa77b43af7d",
     "/assets/icon-256x256.png": "c294e3955f49435379cf70cd76beb6d76d1b2c85",
-    "/styles.84af2074b790c9e3a3f6.bundle.css": "da1863b5ef45ad3f09914ff1ec32989ae9697d90",
+    "/styles.cf76b05489ad3b45867e.bundle.css": "da1863b5ef45ad3f09914ff1ec32989ae9697d90",
     "/assets/icon-512x512.png": "29a35dacd04ebf59f65c27a83831d37598de17db",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "0e76ebb54bb28c2f45833bb5ce374a7f86ec6198"
+    "/index.html": "b78d2aac3e88578201f0c2c24be6d7cad9b83df6"
   }
 }
