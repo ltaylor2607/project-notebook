@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "C:/Program Files/Git/project-notebook/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.3992c78719f276e6d09d.bundle.js",
-        "/polyfills.3f82798312e429623839.bundle.js",
-        "/styles.839e0a18cae3f2f86803.bundle.css"
+        "C:/Program Files/Git/project-notebook/favicon.ico",
+        "C:/Program Files/Git/project-notebook/index.html",
+        "C:/Program Files/Git/project-notebook/inline.318b50c57b4eba3d437b.bundle.js",
+        "C:/Program Files/Git/project-notebook/main.3992c78719f276e6d09d.bundle.js",
+        "C:/Program Files/Git/project-notebook/polyfills.3f82798312e429623839.bundle.js",
+        "C:/Program Files/Git/project-notebook/styles.839e0a18cae3f2f86803.bundle.css"
       ],
       "patterns": []
     },
@@ -21,27 +21,27 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icon-128x128.png",
-        "/assets/icon-152x152.png",
-        "/assets/icon-256x256.png",
-        "/assets/icon-512x512.png",
-        "/assets/menu.svg"
+        "C:/Program Files/Git/project-notebook/assets/icon-128x128.png",
+        "C:/Program Files/Git/project-notebook/assets/icon-152x152.png",
+        "C:/Program Files/Git/project-notebook/assets/icon-256x256.png",
+        "C:/Program Files/Git/project-notebook/assets/icon-512x512.png",
+        "C:/Program Files/Git/project-notebook/assets/menu.svg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/assets/icon-128x128.png": "5b82a269fd5b8cf41c1c041e7f60f91049da5a97",
-    "/main.3992c78719f276e6d09d.bundle.js": "8d7b87a16b758788fe5598966e5bc09b57874ab5",
-    "/assets/icon-152x152.png": "22babe1ccfb9214f7ca259e1eedf60e6b673fbea",
-    "/polyfills.3f82798312e429623839.bundle.js": "3c8cd1d7092ca07a5de58dd89685baa77b43af7d",
-    "/assets/icon-256x256.png": "c294e3955f49435379cf70cd76beb6d76d1b2c85",
-    "/styles.839e0a18cae3f2f86803.bundle.css": "00941317008df0c0fa825b2c9d97ed461dc8fb85",
-    "/assets/icon-512x512.png": "29a35dacd04ebf59f65c27a83831d37598de17db",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/assets/menu.svg": "d4362d5bfce60c03dfa0a60138120aed55a30a8c",
-    "/index.html": "9939a6729b2c7bb16189b27d69df20bb71a69da1"
+    "C:/Program Files/Git/project-notebook/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "C:/Program Files/Git/project-notebook/assets/icon-128x128.png": "5b82a269fd5b8cf41c1c041e7f60f91049da5a97",
+    "C:/Program Files/Git/project-notebook/main.3992c78719f276e6d09d.bundle.js": "8d7b87a16b758788fe5598966e5bc09b57874ab5",
+    "C:/Program Files/Git/project-notebook/assets/icon-152x152.png": "22babe1ccfb9214f7ca259e1eedf60e6b673fbea",
+    "C:/Program Files/Git/project-notebook/polyfills.3f82798312e429623839.bundle.js": "3c8cd1d7092ca07a5de58dd89685baa77b43af7d",
+    "C:/Program Files/Git/project-notebook/assets/icon-256x256.png": "c294e3955f49435379cf70cd76beb6d76d1b2c85",
+    "C:/Program Files/Git/project-notebook/styles.839e0a18cae3f2f86803.bundle.css": "00941317008df0c0fa825b2c9d97ed461dc8fb85",
+    "C:/Program Files/Git/project-notebook/assets/icon-512x512.png": "29a35dacd04ebf59f65c27a83831d37598de17db",
+    "C:/Program Files/Git/project-notebook/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "C:/Program Files/Git/project-notebook/assets/menu.svg": "d4362d5bfce60c03dfa0a60138120aed55a30a8c",
+    "C:/Program Files/Git/project-notebook/index.html": "15ba7520285b9ec0aba2b602015bcc6e1b5959b0"
   }
 }
