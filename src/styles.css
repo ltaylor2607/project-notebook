@@ -1,2 +1,6 @@
 /* Normalise css */
 @import '~normalize.css/normalize.css';
+
+body {
+    margin-top: 35px;
+}
