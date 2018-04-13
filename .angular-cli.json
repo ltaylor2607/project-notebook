@@ -10,7 +10,12 @@
       "assets": [
         "assets",
         "favicon.ico",
-        "manifest.json"
+        "manifest.json",
+        {
+          "glob": "**/*",
+          "input": "./app/header/assets",
+          "output": "./assets/"
+        }
       ],
       "index": "index.html",
       "main": "main.ts",
