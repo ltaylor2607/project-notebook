@@ -11,4 +11,18 @@ describe('project-notebook App', () => {
     page.navigateTo();
     expect(page.getParagraphText()).toEqual('Welcome to app!');
   });
+
+  it('should display navbar', () => {
+    page.navigateTo();
+    expect(page.getNavbar()).toBeTruthy;
+  });
+
+  it('should only display menu icon below a certain size', async () => {
+    const pageSize = await page.getWindowSize();
+    if (pageSize.width > 550) {
+      expect(page.getMenuIcon().isDisplayed()).toBeFalsy();
+    } else {
+      expect(page.getMenuIcon().isDisplayed()).toBeTruthy();
+    }
+  });
 });
