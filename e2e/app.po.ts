@@ -5,10 +5,6 @@ export class AppPage {
     return browser.get('/');
   }
 
-  getParagraphText() {
-    return element(by.css('app-root h1')).getText();
-  }
-
   getNavbar() {
     return element(by.css('.navbar'));
   }
@@ -25,6 +21,10 @@ export class AppPage {
           height: size.height
         };
       });
+  }
+
+  getOptionsList() {
+    return element(by.css('.options-list'));
   }
   
 }

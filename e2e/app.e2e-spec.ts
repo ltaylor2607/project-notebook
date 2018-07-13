@@ -7,11 +7,6 @@ describe('project-notebook App', () => {
     page = new AppPage();
   });
 
-  it('should display welcome message', () => {
-    page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Welcome to app!');
-  });
-
   it('should display navbar', () => {
     page.navigateTo();
     expect(page.getNavbar()).toBeTruthy;
@@ -25,4 +20,10 @@ describe('project-notebook App', () => {
       expect(page.getMenuIcon().isDisplayed()).toBeTruthy();
     }
   });
+
+  it('should display options list', () => {
+    page.navigateTo();
+    const optionsList = page.getOptionsList();
+    expect(optionsList).toBeTruthy;
+  })
 });
